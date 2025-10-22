@@ -1,10 +1,14 @@
-afflib (3.7.22-1) unstable; urgency=medium
+afflib (3.7.22-1deepin1) unstable; urgency=medium
 
+  [ Joao Eriberto Mota Filho ]
   * New upstream version 3.7.22. (Closes: #1084452)
   * debian/control: changed from libfuse-dev to libfuse3-dev
     in Build-Depends field. (Closes: #1084452)
 
- -- Joao Eriberto Mota Filho <eriberto@debian.org>  Tue, 09 Sep 2025 12:25:52 -0300
+  [ VZstless ]
+  * revert t64 from source
+
+ -- VZstless <vzstless@qq.com>  Thu, 13 Nov 2025 17:23:20 +0800
 
 afflib (3.7.21-1) unstable; urgency=medium
 

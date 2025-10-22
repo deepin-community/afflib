@@ -21,7 +21,6 @@ Package: libafflib0v5
 Architecture: any
 Multi-Arch: same
 Depends: ${misc:Depends}, ${shlibs:Depends}
-Replaces: libafflib0
 Description: Advanced Forensics Format Library
  The Advanced Forensic Format (AFF) is on-disk format for storing
  computer forensic information. Critical features of AFF include:
